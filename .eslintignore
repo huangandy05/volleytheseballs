@@ -1,0 +1,3 @@
+# .eslintignore
+src/components/ui
+src/app/api
